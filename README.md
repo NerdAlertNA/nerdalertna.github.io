@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a student at General assembly with aspirations to develope my own applications. I hope to continue learning for the remainder of my career and look forward to the challenges offered by development and programming in general.
+I am a student at General assembly with aspirations to develop my own applications. I hope to continue learning for the remainder of my career and look forward to the challenges offered by development and programming in general.
 
 # Projects:
 ![Image](images/hangman) [Hangman](/Hangman)
