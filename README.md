@@ -5,7 +5,7 @@
 I am a student at General assembly with aspirations to develope my own applications. I hope to continue learning for the remainder of my career and look forward to the challenges offered by development and programming in general.
 
 # Projects:
-![Image](images/hangman) [Hangman](nerdalertna.github.io/Hangman)
+![Image](images/hangman) [Hangman](/Hangman)
 
 
 <!-- ## Welcome to GitHub Pages
